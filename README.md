@@ -64,26 +64,30 @@ Encryption
 
 [26]Hureib, Eshraq & Gutub, Adnan. (2020). Enhancing Medical Data Security via Combining Elliptic Curve Cryptography and Image Steganography. 20. 1-8. Retrieved April 22, 2023, from https://www.researchgate.net/publication/344311992_Enhancing_Medical_Data_Security_via_Combining_Elliptic_Curve_Cryptography_and_Image_Steganography
 
+[27]Handrizal, Herriyance, Hanayong, Zarlis, Sihombing. (2021). "Implementation of Image Security using Elliptic Curve
+Cryptography RSA Algorithm and Least Significant Bit Algorithm" IOPscience. Journal of Physics: Conference Series. Retrieved May 1, 2023, from https://iopscience.iop.org/article/10.1088/1742-6596/1898/1/012016/meta 
 
 Comparative Studies
 
 
 Comparative Study for LSB Algorithm
-[27]Gutub, A., Al-Shaarani, F. Efficient Implementation of Multi-image Secret Hiding Based on LSB and DWT Steganography Comparisons. Arab J Sci Eng 45, 2631–2644 (2020). https://doi.org/10.1007/s13369-020-04413-w Retrieved April 16, 2023, from https://link.springer.com/article/10.1007/s13369-020-04413-w#citeas
+[28]Gutub, A., Al-Shaarani, F. Efficient Implementation of Multi-image Secret Hiding Based on LSB and DWT Steganography Comparisons. Arab J Sci Eng 45, 2631–2644 (2020). https://doi.org/10.1007/s13369-020-04413-w Retrieved April 16, 2023, from https://link.springer.com/article/10.1007/s13369-020-04413-w#citeas
 
-[28]Darwis, D., Pamungkas, N. B., Wamiliana. (2021). IOPscience. Journal of Physics: Conference Series. Retrieved April 16, 2023, from https://iopscience.iop.org/article/10.1088/1742-6596/1751/1/012039 
+[29]Darwis, D., Pamungkas, N. B., Wamiliana. (2021). IOPscience. Journal of Physics: Conference Series. Retrieved April 16, 2023, from https://iopscience.iop.org/article/10.1088/1742-6596/1751/1/012039 
 
 Comparative Study for Deflate
-[29]Gupta, Apoorv & Bansal, Aman & Khanduja, Vidhi. (2017). Modern Lossless Compression Techniques: Review, Comparison and Analysis. 10.1109/ICECCT.2017.8117850. Retrieved April 30, 2023, from https://www.researchgate.net/publication/317599235_Modern_Lossless_Compression_Techniques_Review_Comparison_and_Analysis
+[30]Gupta, Apoorv & Bansal, Aman & Khanduja, Vidhi. (2017). Modern Lossless Compression Techniques: Review, Comparison and Analysis. 10.1109/ICECCT.2017.8117850. Retrieved April 30, 2023, from https://www.researchgate.net/publication/317599235_Modern_Lossless_Compression_Techniques_Review_Comparison_and_Analysis
 
-[30]Syed, Z. & Soomro, T.,(2018). "Compression Algorithms: Brotli, Gzip and Zopfli Perspective ", Vol 11(45), DOI: 10.17485/ijst/2018/v11i45/117921, Retrieved April 30, 2023, from https://indjst.org/download-article.php?Article_Unique_Id=INDJST3304&Full_Text_Pdf_Download=True
+[31]Syed, Z. & Soomro, T.,(2018). "Compression Algorithms: Brotli, Gzip and Zopfli Perspective ", Vol 11(45), DOI: 10.17485/ijst/2018/v11i45/117921, Retrieved April 30, 2023, from https://indjst.org/download-article.php?Article_Unique_Id=INDJST3304&Full_Text_Pdf_Download=True
 
-[31]Delaunay, X., Courtois, A., Gouillon, F. (2019). "Evaluation of lossless and lossy algorithms for the compression of scientific datasets in NetCDF-4 or HDF5 files. Geoscientific Model Development." Retrieved April 30, 2023, from https://gmd.copernicus.org/articles/12/4099/2019/ 
+[32]Delaunay, X., Courtois, A., Gouillon, F. (2019). "Evaluation of lossless and lossy algorithms for the compression of scientific datasets in NetCDF-4 or HDF5 files. Geoscientific Model Development." Retrieved April 30, 2023, from https://gmd.copernicus.org/articles/12/4099/2019/ 
 
 Comparative Study for ECC
-[32]A. Raya and K. Mariyappn, "Security and Performance of Elliptic Curve Cryptography in Resource-limited Environments: A Comparative Study," 2020 15th International Conference for Internet Technology and Secured Transactions (ICITST), London, United Kingdom, 2020, pp. 1-8, doi: 10.23919/ICITST51030.2020.9351327. Retrieved April 16, 2023, from https://ieeexplore.ieee.org/document/9351327
+[33]A. Raya and K. Mariyappn, "Security and Performance of Elliptic Curve Cryptography in Resource-limited Environments: A Comparative Study," 2020 15th International Conference for Internet Technology and Secured Transactions (ICITST), London, United Kingdom, 2020, pp. 1-8, doi: 10.23919/ICITST51030.2020.9351327. Retrieved April 16, 2023, from https://ieeexplore.ieee.org/document/9351327
 
 
 Other Resources that might be helpful 
 
-[33]Puneet. (2022). What is the difference between encryption and compression? what order should they be done in? Encryption Consulting. Retrieved April 30, 2023, from https://www.encryptionconsulting.com/education-center/encryption-and-compression/ 
+[34]Ali, U. A., Sohrawordi, M.,Uddin, M. (2019). "A Robust and Secured Image Steganography using LSB and Random Bit Substitution." Retrieved May 1, 2023, from https://www.researchgate.net/profile/U-A-Md-Ehsan-Ali/publication/331544868_A_Robust_and_Secured_Image_Steganography_using_LSB_and_Random_Bit_Substitution/links/5c7f48ea299bf1268d3ce8cc/A-Robust-and-Secured-Image-Steganography-using-LSB-and-Random-Bit-Substitution.pdf
+
+[35]Puneet. (2022). What is the difference between encryption and compression? what order should they be done in? Encryption Consulting. Retrieved April 30, 2023, from https://www.encryptionconsulting.com/education-center/encryption-and-compression/ 
