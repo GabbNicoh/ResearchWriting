@@ -93,3 +93,5 @@ Other Resources that might be helpful
 [35]Ali, U. A., Sohrawordi, M.,Uddin, M. (2019). "A Robust and Secured Image Steganography using LSB and Random Bit Substitution." Retrieved May 1, 2023, from https://www.researchgate.net/profile/U-A-Md-Ehsan-Ali/publication/331544868_A_Robust_and_Secured_Image_Steganography_using_LSB_and_Random_Bit_Substitution/links/5c7f48ea299bf1268d3ce8cc/A-Robust-and-Secured-Image-Steganography-using-LSB-and-Random-Bit-Substitution.pdf
 
 [36]Puneet. (2022). What is the difference between encryption and compression? what order should they be done in? Encryption Consulting. Retrieved April 30, 2023, from https://www.encryptionconsulting.com/education-center/encryption-and-compression/ 
+
+[37]A. Darbani, M. M. AlyanNezhadi and M. Forghani, "A New Steganography Method for Embedding Message in JPEG Images," 2019 5th Conference on Knowledge Based Engineering and Innovation (KBEI), Tehran, Iran, 2019, pp. 617-621, doi: 10.1109/KBEI.2019.8735054. Retrieved April 30, 2023, from https://ieeexplore.ieee.org/document/8735054
