@@ -95,3 +95,16 @@ Other Resources that might be helpful
 [36]Puneet. (2022). What is the difference between encryption and compression? what order should they be done in? Encryption Consulting. Retrieved April 30, 2023, from https://www.encryptionconsulting.com/education-center/encryption-and-compression/ 
 
 [37]A. Darbani, M. M. AlyanNezhadi and M. Forghani, "A New Steganography Method for Embedding Message in JPEG Images," 2019 5th Conference on Knowledge Based Engineering and Innovation (KBEI), Tehran, Iran, 2019, pp. 617-621, doi: 10.1109/KBEI.2019.8735054. Retrieved April 30, 2023, from https://ieeexplore.ieee.org/document/8735054
+
+[38]Al-Azzeh, J., Ayyoub, Z., Sharadqh, A. (2019). Improving the Security of LSB Image Steganography . Retrieved May 1, 2023, from https://www.researchgate.net/publication/337153144_Improving_the_security_of_LSB_image_steganography
+
+[40]Jarkas, S. (2023). RC4 encryption algorithm. GeeksforGeeks. Retrieved May 1, 2023, from https://www.geeksforgeeks.org/rc4-encryption-algorithm/
+
+[41]Nadipally, M. (2019, March). Optimization of methods for image-texture segmentation using ant colony optimization. Intelligent Data Analysis for Biomedical Applications. Retrieved May 1, 2023, from https://www.sciencedirect.com/science/article/abs/pii/B9780128155530000021
+
+[42]O. F. A. Wahab, A. A. M. Khalaf, A. I. Hussein and H. F. A. Hamed, "Hiding Data Using Efficient Combination of RSA Cryptography, and Compression Steganography Techniques," in IEEE Access, vol. 9, pp. 31805-31815, 2021, doi: 10.1109/ACCESS.2021.3060317. Retrieved May 1, 2023, from https://ieeexplore.ieee.org/document/9356603
+
+[43]Liu, Wanteng & Yin, Xiaolin & Wei, Zhuo & Zhang, Junhong & Zeng, Jinhua & Shi, Shaopei & Mao, Mingzhi. (2019). Secure Halftone Image Steganography with Minimizing the Distortion on Pair Swapping. Signal Processing. 167. 107287. 10.1016/j.sigpro.2019.107287. Retrieved May 1, 2023, from https://www.researchgate.net/publication/335746411_Secure_Halftone_Image_Steganography_with_Minimizing_the_Distortion_on_Pair_Swapping
+
+[44]shreyasgangopadhyay. (2021). Performance metrics for image steganography. GeeksforGeeks. https://www.geeksforgeeks.org/performance-metrics-for-image-steganography/
+
