@@ -48,7 +48,7 @@ Embedding
 
 [19]A. Gupta & S. Ahuja (2018). "An Improved Image Steganography Technique using Block Division & Least Significant Bit approach " 2018 International Conference on Advances in Computing, Communication Control and Networking (ICACCCN), Greater Noida, India, 2018, pp. 335-339, Retrieved April 1, 2023, from https://ieeexplore.ieee.org/abstract/document/8748477 
 
-[20]H. abeen & A. Wahid, "Image Steganography using Pseudo Random Number Generator" 2019, International Journal of Advanced Research in Computer Engineering & Technology (IJARCET), Volume 8, Issue 3, March 2019, ISSN2278 –
+[20]H. Jabeen & A. Wahid, "Image Steganography using Pseudo Random Number Generator" 2019, International Journal of Advanced Research in Computer Engineering & Technology (IJARCET), Volume 8, Issue 3, March 2019, ISSN2278 –
 1323,  Retrieved April 1, 2023, from https://www.academia.edu/42907705/Image_Steganography_using_Pseudo_Random_Number_Generator
 
 [21]Ali, U A Md Ehsan & Ali, Emran & Sohrawordi, Md & Sultan, Nahid. (2021). A LSB Based Image Steganography Using Random Pixel and Bit Selection for High Payload. International Journal of Mathematical Sciences and Computing. 7. 24-31. 10.5815/ijmsc.2021.03.03. Retrieved April 16, 2023, from https://www.researchgate.net/publication/353598043_A_LSB_Based_Image_Steganography_Using_Random_Pixel_and_Bit_Selection_for_High_Payload
@@ -108,3 +108,4 @@ Other Resources that might be helpful
 
 [44]shreyasgangopadhyay. (2021). Performance metrics for image steganography. GeeksforGeeks. https://www.geeksforgeeks.org/performance-metrics-for-image-steganography/
 
+[45]Rasras, Rashad & Abuzalata, Mohammed & Alqadi, Ziad & Al-Azzeh, Jamil & Jaber, Qazem. (2019). Comparative Analysis of Color Image Encryption-Decryption Methods Based on Matrix Manipulation. 8. 14-26. Retrieved May 1, 2023, from 
